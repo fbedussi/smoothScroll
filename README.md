@@ -1,1 +1,9 @@
-Super minimal website boilerplate
+# Vanilla JS smooth page scroll
+
+## Usage
+
+Just include the script in the page
+
+## Caveat
+
+It works only when scrolling with the mouse wheel or the touchpad. 
